@@ -1,6 +1,7 @@
-## Hello, I’m @LucasVieiraS
+## Hello, I’m Lucas Vieira (@LucasVieiraS)
+* * *
 ### I’m interested in many things, mainly programming.
-### I’m currently learning HTML5, CSS3, JS, JAVA, PYTHON, MYSQL
+### I’m currently learning **HTML5, CSS3, JS, JAVA, PYTHON, MYSQL**
 ### I’m looking to collaborate on any project that i have enough knowledge to contribute with.
 ## You can reach me through Github, Social Media and E-Mail.
 
