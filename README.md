@@ -1,4 +1,4 @@
-## Hello! My name is Lucas Vieira (@LucasVieiraS) 👨‍💻
+## Hello! My name is Lucas Vieira da Silva 👨‍💻
 
 -------
 
