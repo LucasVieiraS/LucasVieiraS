@@ -17,7 +17,7 @@ I'm interested in many things, mainly programming. Currently learning:
 
 #### **Contribution**
 
-I have contributed to many projects in other platforms, hopefully i will be able to help a lot here too!
+I have contributed to many projects in other platforms, hopefully i will be able to help here too!
 
 -------
 
