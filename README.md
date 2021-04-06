@@ -1,10 +1,30 @@
 ## Hello! My name is Lucas Vieira (@LucasVieiraS) 👨‍💻
+
 -------
-**Interests**
-#### I’m interested in many things, mainly programming. I’m currently learning *HTML5, CSS3, Javascript, Java, Python, MySQL*
+
+#### **Interests**
+
+I'm interested in many things, mainly programming. Currently learning:
+
+- HTML
+- CSS
+- JS
+- Java
+- Python
+- MySQL
+
 -------
-**Contribution**
-#### I’m looking to collaborate on any project that i have enough knowledge to contribute with.
+
+#### **Contribution**
+
+I have contributed to many projects in other platforms, hopefully i will be able to help a lot here too!
+
 -------
-**Contact**
+
+#### **Contact**
+
 ##### You can reach me through Social Media.
+
+- [Twitter](https://twitter.com/lucasv2981)
+- Discord
+
