@@ -22,6 +22,6 @@ I have contributed to many projects in other platforms, hopefully i will be able
 
 #### **Contact**
 
-##### You can reach me through Social Media.
+##### You can reach to me through:
 
-- [Email](lucasvieirasilva.lpta@gmail.com)
+- [E-mail](mailto:lucasvieirasilva.lpta@gmail.com? Subject: Assunto da mensagem&body=Conteúdo da mensagem e cole-o na caixa onde aparece "mailto".)
