@@ -6,12 +6,11 @@
 
 I'm interested in many things, mainly programming. Currently learning:
 
-- HTML
 - CSS
 - JS
 - Java
 - Python
-- MySQL
+- SQL
 
 -------
 
@@ -25,6 +24,4 @@ I have contributed to many projects in other platforms, hopefully i will be able
 
 ##### You can reach me through Social Media.
 
-- [Twitter](https://twitter.com/lucasv2981)
-- Discord
-
+- [Email](lucasvieirasilva.lpta@gmail.com)
