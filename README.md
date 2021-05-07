@@ -24,4 +24,4 @@ I have contributed to many projects in other platforms, hopefully i will be able
 
 ##### You can reach to me through:
 
-- [E-mail](mailto:lucasvieirasilva.lpta@gmail.com? Subject: Assunto da mensagem&body=Conteúdo da mensagem e cole-o na caixa onde aparece "mailto".)
+- [Email](mailto:lucasvieirasilva.lpta@gmail.com?subject=Subject&body=Hello%20there%2C%20Lucas!)
