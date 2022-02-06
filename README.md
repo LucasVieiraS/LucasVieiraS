@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"><a href="https://LucasVieiraS.github.io/profile/"> 👨‍💻</a>
+<h1 align="center">Hey devs! I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"><a href="https://LucasVieiraS.github.io/profile/"> 👨‍💻</a>
 
 -------
 
@@ -12,12 +12,11 @@ I'm a free-lance developer working on front-end and sometimes game development. 
 <img src="https://img.shields.io/badge/-Python-9cf?&logo=Python&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-Java-9cf?&logo=Java&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-C-9cf?&logo=C&logoColor=fff"/>
-<img src="https://img.shields.io/badge/-SQL-9cf?&logo=MySQL&logoColor=fff"/>
 </p>
 
 -------
 
-##### Let's talk! :earth_americas:
+##### Social Medias :earth_americas:
 
 <p align = "center">
 <a href="https://www.linkedin.com/in/lucas-vieira-da-silva/"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/></a>
