@@ -17,7 +17,7 @@
 
 -------
 
-##### ``Social Medias``
+##### ``Social Media``
 
 <p align = "center">
 <a href="https://www.linkedin.com/in/lucas-vieira-da-silva/"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/></a>
