@@ -4,7 +4,7 @@
 
 Lucas is a software development student that does freelance as game developer on his free time.
 
-#### Let's connect:
+#### More about me:
 
 <p align="left">
   <a href="https://www.instagram.com/LucasVieiraS/" alt="Instagram">
@@ -20,6 +20,6 @@ Lucas is a software development student that does freelance as game developer on
   </a>
 
   <a href="https://github.com/LucasVieiraS" alt="ProfileViews">
-    <img src="https://komarev.com/ghpvc/?username=LucasVieiraS&style=for-the-badge"/>
+    <img src="https://komarev.com/ghpvc/?username=LucasVieiraS&color=5D3FD3&style=for-the-badge"/>
   </a>
 </p>
