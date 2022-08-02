@@ -2,7 +2,7 @@
 
 ## Hello World! 👾
 
-Lucas is a software development student that does freelance as game developer on his free time.
+I'm a software development student who does freelance as game developer on my free time.
 
 #### More about me:
 
