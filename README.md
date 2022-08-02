@@ -7,7 +7,7 @@ I'm a software development student who does freelance as game developer on my fr
 #### More about me:
 
 <p align="left">
-  <a href="https://www.instagram.com/LucasVieiraS/" alt="Instagram">
+  <a href="https://www.instagram.com/lu_casvieira/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-5D3FD3?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/lu_casvieira"/>
   </a>
   
