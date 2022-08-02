@@ -18,4 +18,8 @@ Lucas is a software development student that does freelance as game developer on
   <a href="mailto:lucasvieirasilva.lpta@gmail.com?subject=Subject&body=Hello%20there%2C%20Lucas" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Gmail-5D3FD3?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=https://www.linkedin.com/in/LucasVieiraSilva"/>
   </a>
+
+  <a href="https://github.com/LucasVieiraS" alt="ProfileViews">
+    <img src="https://komarev.com/ghpvc/?username=LucasVieiraS&style=for-the-badge"/>
+  </a>
 </p>
