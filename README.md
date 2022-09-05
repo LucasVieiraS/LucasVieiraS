@@ -22,6 +22,8 @@ I'm a software development student who does freelance as game developer on my fr
   <a href="https://github.com/LucasVieiraS" alt="ProfileViews">
     <img src="https://komarev.com/ghpvc/?username=LucasVieiraS&color=5D3FD3&style=for-the-badge"/>
   </a>
+
+  ![LucasVieiraS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasVieiraS&show_icons=true&border_color=5D3FD3&bg_color=0000&title_color=5D3FD3&text_color=cfcfcf)
 </p>
 
 <!-- Design inspired by Iuricode -->
