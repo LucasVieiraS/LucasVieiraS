@@ -1,4 +1,4 @@
-<img src="light-house.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="lighthouse logo">
+<img src="disco-light-purple.png" min-width="300px" max-width="300px" width="300px" align="right" alt="light beam">
 
 ## Hello World! 👾
 
