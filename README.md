@@ -4,9 +4,7 @@
 
 I'm a software development student who does freelance as game developer on my free time.
 
-### #NeverStopLearning <img src="https://img.icons8.com/windows/32/5D3FD3/launchpad.png" height="25" width="25">
-
-  ![LucasVieiraS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasVieiraS&show_icons=true&border_color=5D3FD3&bg_color=0000&title_color=5D3FD3&text_color=cfcfcf)
+![LucasVieiraS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasVieiraS&show_icons=true&border_color=5D3FD3&bg_color=0000&title_color=5D3FD3&text_color=cfcfcf)
 
 <hr>
 
