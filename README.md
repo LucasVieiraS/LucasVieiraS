@@ -4,7 +4,7 @@
 
 I'm a software development student who does freelance as game developer on my free time.
 
-![LucasVieiraS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasVieiraS&show_icons=true&border_color=5D3FD3&bg_color=0000&title_color=5D3FD3&text_color=cfcfcf)
+![LucasVieiraS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasVieiraS&show_icons=true&count_private=true&border_color=5D3FD3&bg_color=0000&title_color=5D3FD3&text_color=cfcfcf)
 
 <hr>
 
