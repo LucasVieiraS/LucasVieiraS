@@ -1,7 +1,7 @@
 
 ## Hello World! 👾
 
-I'm a software development student who does freelance as game developer on my free time.
+I'm a computer science student who works as game developer.
 
 #### More about me:
 
