@@ -1,7 +1,7 @@
 
 ## Hello World! 👾
 
-I'm a computer science student who works as game developer.
+I'm a computer science student who works as back-end developer.
 
 #### More about me:
 
