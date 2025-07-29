@@ -1,26 +1,23 @@
+# Lucas Vieira — Back-end Software Engineer 👾
 
-## Hello World! 👾
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-5D3FD3?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/LucasVieiraSilva/)
+[![Gmail](https://img.shields.io/badge/-Gmail-5D3FD3?style=flat-square&logo=gmail&logoColor=fff)](mailto:lucasvieirasilva.lpta@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-5D3FD3?style=flat-square&logo=github&logoColor=fff)](https://github.com/LucasVieiraS)
+[![Instagram](https://img.shields.io/badge/-Instagram-5D3FD3?style=flat-square&logo=instagram&logoColor=fff)](https://www.instagram.com/lu_casvieira/)
 
-I'm a computer science student who works as back-end developer.
+I'm Lucas, a Back-end Developer and Bachelor student in Computer Science.  
+I’m passionate about scalable systems, clean architecture, and building things that solve real problems.
 
-#### More about me:
+I’ve worked with production systems handling millions of records and built reliable data pipelines using cloud technologies.
 
-<p align="left">
-  <a href="https://www.instagram.com/lu_casvieira/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-5D3FD3?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/lu_casvieira"/>
-  </a>
+## Tech Stack Highlights
+
+- **Languages:** Java, Python, C#, SQL  
+- **Frameworks:** Spring Boot, Flask, .NET (Unity), MVC Pattern  
+- **Cloud:** AWS (S3, ECS, ECR, SQS, IAM, CloudWatch), Firebase  
+- **Databases:** PostgreSQL, SQL, Notion API  
+- **DevOps:** Docker, Git, GitLab, CI/CD  
+- **Data & Analytics:** ETL pipelines, Google Looker Studio, observability (Sentry, metrics)  
+- **Architecture:** API REST, Software Design Patterns, Automation, Scalability
   
-  <a href="https://www.linkedin.com/in/LucasVieiraSilva" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-5D3FD3?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/LucasVieiraSilva"/>
-  </a>
-
-  <a href="mailto:lucasvieirasilva.lpta@gmail.com?subject=Subject&body=Hello%20there%2C%20Lucas" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Gmail-5D3FD3?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=https://www.linkedin.com/in/LucasVieiraSilva"/>
-  </a>
-
-  <a href="https://github.com/LucasVieiraS" alt="ProfileViews">
-    <img src="https://komarev.com/ghpvc/?username=LucasVieiraS&color=5D3FD3&style=for-the-badge"/>
-  </a>
-</p>
-
 <!-- Design inspired by Iuricode -->
