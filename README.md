@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5D3FD3?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/LucasVieiraSilva/)
 [![Gmail](https://img.shields.io/badge/-Gmail-5D3FD3?style=flat-square&logo=gmail&logoColor=fff)](mailto:lucasvieirasilva.lpta@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-5D3FD3?style=flat-square&logo=github&logoColor=fff)](https://github.com/LucasVieiraS)
-[![Instagram](https://img.shields.io/badge/-Instagram-5D3FD3?style=flat-square&logo=instagram&logoColor=fff)](https://www.instagram.com/lu_casvieira/)
 
 I'm Lucas, a Back-end Developer and Bachelor student in Computer Science.  
 I’m passionate about scalable systems, clean architecture, and building things that solve real problems.
