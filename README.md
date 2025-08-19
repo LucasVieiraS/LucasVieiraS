@@ -13,10 +13,10 @@ I’ve worked with production systems handling millions of records and built rel
 
 - **Languages:** Java, Python, C#, SQL  
 - **Frameworks:** Spring Boot, Flask, .NET (Unity), MVC Pattern  
-- **Cloud:** AWS (S3, ECS, ECR, SQS, IAM, CloudWatch), Firebase  
-- **Databases:** PostgreSQL, SQL, Notion API  
-- **DevOps:** Docker, Git, GitLab, CI/CD  
+- **Cloud:** AWS (S3, ECS, ECR, SQS, IAM, CloudWatch)  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **DevOps:** Docker, Git, GitLab, CI/CD
 - **Data & Analytics:** ETL pipelines, Google Looker Studio, observability (Sentry, metrics)  
 - **Architecture:** API REST, Software Design Patterns, Automation, Scalability
-  
+
 <!-- Design inspired by Iuricode -->
