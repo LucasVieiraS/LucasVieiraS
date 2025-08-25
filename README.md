@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-5D3FD3?style=flat-square&logo=gmail&logoColor=fff)](mailto:lucasvieirasilva.lpta@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-5D3FD3?style=flat-square&logo=github&logoColor=fff)](https://github.com/LucasVieiraS)
 
-I'm Lucas, a Back-end Developer and Bachelor student in Computer Science.  
+I'm Lucas, a Software Engineer with a focus in back-end and Bachelor student in Computer Science.  
 I’m passionate about scalable systems, clean architecture, and building things that solve real problems.
 
 I’ve worked with production systems handling millions of records and built reliable data pipelines using cloud technologies.
